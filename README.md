@@ -7,6 +7,12 @@ Things you may want to cover:
 
 * Ruby version
 
+  2.5.1
+
+* Rails version
+
+  6.0.2
+
 * System dependencies
 
 * Configuration
@@ -21,4 +27,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* Run Server
+
+  http://localhost:7373
